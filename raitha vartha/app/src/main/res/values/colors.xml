@@ -1,0 +1,10 @@
+<resources>
+    <color name="background">#F4F8F2</color>
+    <color name="primary">#2E7D32</color>
+    <color name="primaryDark">#1B5E20</color>
+    <color name="primaryText">#1A1A1A</color>
+    <color name="secondaryText">#4E4E4E</color>
+    <color name="cardStroke">#CCE4CF</color>
+    <color name="categoryDefault">#E6F2E7</color>
+    <color name="categorySelected">#2E7D32</color>
+</resources>

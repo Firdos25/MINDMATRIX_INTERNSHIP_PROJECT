@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Raitha-Varta Premium</string>
+    <string name="daily_tips_title">Daily Farming Tips</string>
+    <string name="success_stories">Success Stories</string>
+    <string name="expert_ask">Expert Ask (Simulated)</string>
+    <string name="category_all">All</string>
+    <string name="category_paddy">Paddy</string>
+    <string name="category_arecanut">Arecanut</string>
+    <string name="category_coconut">Coconut</string>
+    <string name="category_tomato">Tomato</string>
+    <string name="crop_image">Crop image</string>
+    <string name="farmer_image">Farmer image</string>
+    <string name="leaf_image">Leaf image preview</string>
+    <string name="select_leaf_image">Select Diseased Leaf Image</string>
+    <string name="get_expert_response">Get Expert Response</string>
+    <string name="sample_expert_pending">Upload an image and tap "Get Expert Response" to see simulated advice.</string>
+    <string name="sample_expert_response">Expert Response: Leaf shows early fungal spot symptoms. Remove severely affected leaves, avoid overhead irrigation in evening, and spray recommended copper fungicide in correct dose after consulting local agriculture officer.</string>
+</resources>
